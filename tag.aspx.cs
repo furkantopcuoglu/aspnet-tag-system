@@ -17,7 +17,4 @@ using System.Data.SqlClient;
              }
         }
         
-                          // Veritabanı //
-        // tag isimli bir tablo
-        // id int primary key auto_increment
-        // tagname varchar(50)
+                     
