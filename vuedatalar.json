@@ -1,4 +1,4 @@
-﻿[  {
+ {
     name: 'root',
     image_url: "https://static.refined-x.com/avat.jpg",
     children: [
@@ -33,4 +33,4 @@
         image_url: "https://static.refined-x.com/avat.jpg"
       }
     ]
-  } ]
+  } 
